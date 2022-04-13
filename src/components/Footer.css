@@ -1,0 +1,14 @@
+.footer {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ gap: 24px;
+ background-color: #161619;
+ height: 64px;
+ border-radius: 0 0px 10px 10px;
+}
+
+.footer img {
+    height: 25px;
+    width: 25px;
+}
